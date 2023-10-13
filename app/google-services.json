@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "787878304723",
+    "project_id": "meet-your-friends-ddf46",
+    "storage_bucket": "meet-your-friends-ddf46.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:787878304723:android:e1b9371532cb2777712d26",
+        "android_client_info": {
+          "package_name": "com.social.meetyourfriends"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXiNHP0MRaRdHYeD9ZkgKiYZaXEir7-Hw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
