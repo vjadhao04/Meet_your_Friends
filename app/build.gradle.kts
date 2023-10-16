@@ -34,6 +34,9 @@ android {
     kotlinOptions {
         jvmTarget = "1.8"
     }
+    buildFeatures{
+        dataBinding=true
+    }
 }
 
 dependencies {
@@ -41,17 +44,19 @@ dependencies {
 
     implementation("androidx.core:core-ktx:1.9.0")
     implementation("androidx.appcompat:appcompat:1.6.1")
-    implementation("com.google.android.material:material:1.10.0")
+    implementation("com.google.android.material:material:1.8.0")
     implementation("androidx.constraintlayout:constraintlayout:2.1.4")
     testImplementation("junit:junit:4.13.2")
     androidTestImplementation("androidx.test.ext:junit:1.1.5")
     androidTestImplementation("androidx.test.espresso:espresso-core:3.5.1")
 
     //Navigation
-    implementation("androidx.navigation:navigation-fragment-ktx:$nav_version")
-    implementation("androidx.navigation:navigation-ui-ktx:$nav_version")
+    //implementation("androidx.navigation:navigation-fragment-ktx:$nav_version")
+    //implementation("androidx.navigation:navigation-ui-ktx:$nav_version")
 
     //firebase
-    implementation(platform("com.google.firebase:firebase-bom:32.3.1"))
-    implementation("com.google.firebase:firebase-analytics-ktx")
+    //implementation(platform("com.google.firebase:firebase-bom:32.3.1"))
+    //implementation("com.google.firebase:firebase-analytics-ktx")
+    implementation ("com.google.firebase:firebase-core:16.0.1")
+    implementation ("com.google.firebase:firebase-auth:16.0.2")
 }

@@ -2,4 +2,43 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="colorPrimary">#2196F3</color>
+    <color name="colorPrimaryDark">#1976D2</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorGreen">#4CAF50</color>
+    <color name="colorRed">#FF0000</color>
+    <color name="colorBlue">#3F51B5</color>
+    <color name="colorYellow">#FFEB3B</color>
+    <color name="colorPurple">#9C27B0</color>
+    <color name="colorOrange">#FF9800</color>
+    <color name="colorPink">#E91E63</color>
+    <color name="colorBrown">#795548</color>
+    <color name="colorCyan">#00BCD4</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorGray">#808080</color>
+    <color name="colorLightGray">#D3D3D3</color>
+    <color name="colorDarkGray">#A9A9A9</color>
+    <color name="colorSilver">#C0C0C0</color>
+    <color name="colorGold">#FFD700</color>
+    <color name="colorMaroon">#800000</color>
+    <color name="colorNavy">#000080</color>
+    <color name="colorTeal">#008080</color>
+    <color name="colorOlive">#808000</color>
+    <color name="colorLime">#00FF00</color>
+    <color name="colorFuchsia">#FF00FF</color>
+    <color name="colorAqua">#00FFFF</color>
+    <color name="colorDeepPurple">#673AB7</color> <!-- Deep Purple -->
+    <color name="colorDarkPurple">#512DA8</color> <!-- Dark Purple -->
+    <color name="colorLightPurple">#D1C4E9</color> <!-- Light Purple -->
+    <color name="colorLavender">#E6E6FA</color> <!-- Lavender -->
+    <color name="colorMauve">#E0B0FF</color> <!-- Mauve -->
+    <color name="colorLilac">#C8A2C8</color> <!-- Lilac -->
+    <color name="colorPlum">#8E4585</color> <!-- Plum -->
+    <color name="colorViolet">#7B1FA2</color> <!-- Violet -->
+    <color name="colorAmethyst">#9B59B6</color> <!-- Amethyst -->
+    <color name="colorIndigo">#3F51B5</color> <!-- Indigo -->
+    <color name="my_primary">#5E35B1</color>
+    <color name="my_secondary">#673AB7</color>
+
 </resources>
